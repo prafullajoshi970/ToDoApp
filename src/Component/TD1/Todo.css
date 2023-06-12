@@ -1,0 +1,33 @@
+.todo{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+   text-align: center;
+   margin:10px auto;
+}
+
+.main2{
+
+    height:100%
+}
+.list{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   align-items: center;
+   text-align: center;
+   
+}
+li{
+    display: flex;
+    margin:30px
+}
+.deletebtn{
+    width:30vh;
+    height:30px;
+    margin: auto;
+    
+}
+body{
+   background-color:  rgb(199, 221, 199);
+}
